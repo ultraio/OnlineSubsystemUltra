@@ -13,6 +13,8 @@ Ultra's Unreal online subsystem which allows developers to connect the Ultra cli
 
 ## Configuration
 
+You'll need a `client_id` for this. To get one, [you can request one directly from Ultra](https://developers.ultra.io/guides/Integrating%20Ultra/requesting-a-client_id.html).
+
 To configure Ultra's Unreal Online Subsystem, you need to edit the DefaultEngine.ini:
 
 ```ini
