@@ -1,4 +1,4 @@
-# OnlineSubsystemUltra
+# Ultra's Unreal Online Subsystem
 
 Ultra's Unreal online subsystem which allows developers to connect the Ultra client to Unreal-based games.
 
@@ -13,7 +13,7 @@ Ultra's Unreal online subsystem which allows developers to connect the Ultra cli
 
 ## Configuration
 
-To configure OnlineSubsystemUltra, you need to edit the DefaultEngine.ini:
+To configure Ultra's Unreal Online Subsystem, you need to edit the DefaultEngine.ini:
 
 ```ini
 [OnlineSubsystem]
