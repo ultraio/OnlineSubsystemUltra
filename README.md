@@ -1,5 +1,7 @@
 # OnlineSubsystemUltra
 
+Ultra's Unreal online subsystem which allows developers to connect the Ultra client to Unreal-based games.
+
 ## Installation
 
 1. Add this plugin to your project `YourProjectName/Plugins/OnlineSubsystemUltra`
